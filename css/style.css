@@ -69,3 +69,12 @@ h5{
 .container{
     text-align: center;
 }
+
+a{
+    color: white;
+}
+
+a:hover {
+    color:royalblue;
+    font-size: 56px;
+}
