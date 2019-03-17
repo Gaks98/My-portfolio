@@ -78,3 +78,46 @@ a:hover {
     color:royalblue;
     font-size: 56px;
 }
+
+@media screen  and (max-width:1283px){
+    .container1 {
+        width:100%;
+    }
+    .navbar a{
+        display: inline;
+    }
+    #img{
+        display: block;
+    }
+}
+@media screen and (max-width:330px){
+   .navbar a {
+       display: inline;
+       font-size: 20px;
+   }
+   .container1{
+       width: 360px;
+   }
+}
+@media screen and (max-width:1085px){
+    p{
+        font-size: 20px;
+    }
+    h1, h3, h4, h5{
+        font-size: 38px;
+    }
+    .container{
+        float: left;
+    }
+}
+@media screen and (max-width:600px){
+    p{
+        font-size: 16px;
+    }
+    h1, h3, h4, h5{
+        font-size: 30px;
+    }
+    .container{
+        float: left;
+    }
+}
