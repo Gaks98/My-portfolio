@@ -121,3 +121,7 @@ a:hover {
         float: left;
     }
 }
+
+#p7 a:hover{
+    font-size: 21px;
+}
