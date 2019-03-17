@@ -37,3 +37,9 @@ section{
 #one{
     margin-top: 180px;
 }
+
+p{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 22px;
+    font-size:20px;
+}
