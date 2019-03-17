@@ -1,0 +1,128 @@
+body{
+    background-image: url("https://bit.ly/2HqKZW1");
+    background-repeat: no-repeat;
+    background-size: cover;/*cover whole page*/
+    background-position: center center;
+}
+
+.navbar {
+    overflow: hidden;
+    float: right;
+}
+
+.navbar a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;/*centers the text within its "box"*/
+    padding: 14px; /*generate space around an element's content, inside of any defined borders*/
+    text-decoration: none; /*remove underline under links*/
+    font-size: 24px;
+}
+
+.navbar a:hover {
+    background-color:royalblue;
+    color:black;
+    font-size: 30px;
+}
+
+#name{
+    float: left;
+    font-size:50px;
+}
+
+section{
+    margin: 400px;
+}
+
+#one{
+    margin-top: 180px;
+}
+
+p{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 22px;
+    font-size:20px;
+}
+
+h1{
+    font-size: 90px;
+}
+
+h4{
+    font-size: 30px;
+    color: rgb(8, 8, 187);
+}
+
+h5{
+    font-size: 20px;
+    color: white;
+  }
+  h1, h3,h5{
+    color: white;
+    font-size:50px;
+}
+
+#img{
+    display: block;
+}
+
+.container{
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+a:hover {
+    color:royalblue;
+    font-size: 56px;
+}
+
+@media screen  and (max-width:1283px){
+    .container1 {
+        width:100%;
+    }
+    .navbar a{
+        display: inline;
+    }
+    #img{
+        display: block;
+    }
+}
+@media screen and (max-width:330px){
+   .navbar a {
+       display: inline;
+       font-size: 20px;
+   }
+   .container1{
+       width: 360px;
+   }
+}
+@media screen and (max-width:1085px){
+    p{
+        font-size: 20px;
+    }
+    h1, h3, h4, h5{
+        font-size: 38px;
+    }
+    .container{
+        float: left;
+    }
+}
+@media screen and (max-width:600px){
+    p{
+        font-size: 16px;
+    }
+    h1, h3, h4, h5{
+        font-size: 30px;
+    }
+    .container{
+        float: left;
+    }
+}
+
+#p7 a:hover{
+    font-size: 21px;
+}
