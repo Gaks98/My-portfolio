@@ -43,3 +43,21 @@ p{
     padding: 22px;
     font-size:20px;
 }
+
+h1{
+    font-size: 90px;
+}
+
+h4{
+    font-size: 30px;
+    color: rgb(8, 8, 187);
+}
+
+h5{
+    font-size: 20px;
+    color: white;
+  }
+  h1, h3,h5{
+    color: white;
+    font-size:50px;
+}
