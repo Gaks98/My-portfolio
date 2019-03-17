@@ -1,21 +1,16 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {My-portfolio}
+#### {This is My-portfolio website that gives a description of who I am and I do}, {17th March 2019}
+#### By **{Yvonne Gakii Gitonga}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a website of my portfolio that explains that I am web developer and designer. It is my portfolio to showcase to potential employers about my skill set, work, projects and how they can reach me if they are pleased with what they see. }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{No set up requirements or Installation needed to view this website. The site is fully run on its own originally set codes and links and does not depend on any other code to function.}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{The website is not suitable for phones less than 200px of width. }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{I have use CSS3 to give the links a few animations such as increase in font-size when hovered over and also change color.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{In case you run into some issues will trying to use this site feel free to reach me at yvonnegax98@gmail.com}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{No license yet}*
+Copyright (c) {year} **{Yvonne Gakii Gitonga}**
