@@ -65,3 +65,7 @@ h5{
 #img{
     display: block;
 }
+
+.container{
+    text-align: center;
+}
