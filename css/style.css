@@ -4,3 +4,23 @@ body{
     background-size: cover;/*cover whole page*/
     background-position: center center;
 }
+
+.navbar {
+    overflow: hidden;
+    float: right;
+}
+
+.navbar a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;/*centers the text within its "box"*/
+    padding: 14px; /*generate space around an element's content, inside of any defined borders*/
+    text-decoration: none; /*remove underline under links*/
+    font-size: 24px;
+}
+
+.navbar a:hover {
+    background-color:royalblue;
+    color:black;
+    font-size: 30px;
