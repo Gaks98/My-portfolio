@@ -125,3 +125,40 @@ a:hover {
 #p7 a:hover{
     font-size: 21px;
 }
+input, textarea{
+  display: block;
+  width:100%;
+  border: 2px solid #2980B9;
+  padding: .5rem;
+  font-size: 18;
+  border-radius: 5px;
+}
+label {
+  display: block;
+  padding: 1rem o.25rem;
+  font-size: 14px;
+  color: white;
+}
+.submission{
+  max-width: 500px;
+  margin 2rem auto;
+  border-radius:5px;
+}
+#send-btn{
+  border: 0px;
+  background: #343050;
+  padding: .5rem;
+  color: white;
+  margin:1rem 0;
+  width:auto;
+  transition: 3s background ease;
+}
+#send-btn:hover{
+  background:#3498DB;
+  cursor: pointer;
+}
+.table {
+  text-align: center;
+  margin-left: 45%;
+  margin-right: 25%;
+}
