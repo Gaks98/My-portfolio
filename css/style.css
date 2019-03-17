@@ -161,3 +161,13 @@ label {
   margin-left: 30%;
   margin-right: 25%;
 }
+#me{
+  width: 200px;
+  border-radius: 30px;
+  display: block;
+  height: 200px;
+}
+.my-pic{
+  text-align: center;
+  margin-left: 140px;
+}
